@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="context_alta">Alta</string>
+    <string name="context_baja">Baja</string>
+    <string name="context_modificacion">Modificación</string>
+    <string name="mensajeAlta">Ha pulsado "Alta".</string>
+    <string name="mensajeBaja">Ha pulsado "Baja".</string>
+    <string name="mensajeModificacion">Ha pulsado "Modificación".</string>
+
+    <string name="tituloPintor">Principales obras pictóricas:</string>
+    <string name="descripcionPintor1">"Anunciación" (1472-75). La pintura representa el episodio bíblico en que el arcángel Gabriel anuncia a la Virgen la llegada del hijo de Dios.</string>
+    <string name="descripcionPintor2">"Gioconda" (1503-06). Representa a una mujer florentina del siglo XVI.</string>
+
+    <string name="tituloEscultor">Principales esculturas:</string>
+    <string name="descripcionEscultor1">"Caballo de Bronce", siglo XV. Obra creada en honor a Franceso Sforza. No terminada.</string>
+    <string name="descripcionEscultor2">"Virgen con el Niño Sonriente", en torno a 1472. Única escultura original de Da Vinci que se conserva.</string>
+
+    <string name="tituloCientifico">Estudios científicos más relevantes:</string>
+    <string name="descripcionCientifico1">Anatomía humana: Da Vinci realizó detallados estudios anatómicos a través de la disección de cadáveres, buscando comprender la estructura y funcionamiento del cuerpo humano.</string>
+    <string name="descripcionCientifico2">Estudio de vuelo: Da Vinci llevó a cabo numerosos estudios sobre el vuelo de aves y diseñó máquinas voladoras, como el "ornitóptero". Sus observaciones sobre la aerodinámica y la anatomía de las aves influyeron en el desarrollo posterior de la aviación.</string>
+    <string name="descripcionCientifico3">Hidrodinámica y mecánica de fluidos: Da Vinci investigó la dinámica de fluidos y las fuerzas que actúan sobre las superficies sumergidas. Sus estudios sobre el flujo del agua y la turbulencia han sido reconocidos como precursoras de la hidrodinámica moderna.</string>
+
+    <string name="tituloInventor">Inventos más destacables:</string>
+    <string name="descripcionInventor1">En el siglo XV Leonardo da Vinci desarrolló el primer artefacto diseñado para planear a partir de la observación de las leyes de la física y la naturaleza. El paracaídas de Leonardo era de forma piramidal.</string>
+    <string name="descripcionInventor2">El tanque de Da Vinci está pensado para disparar un gran número de cañones en todas direcciones. Unas pequeñas troneras permiten a los hombre abrir fuego con los cañones  para masacrar al enemigo.</string>
+
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_inventor">Inventor</string>
+    <string name="menu_cientifico">Cientifico</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
